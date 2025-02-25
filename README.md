@@ -1,33 +1,36 @@
-**Aulas de Inglês**
+# 📚 Projeto: Página de Aulas de Inglês
+![](https://github.com/shirlyalima/Site-Comercial---aulas-de-ingl-s/blob/fe478825a1c504ba84e09940aad388c127360ba6/exemplo%20do%20projeto.gif)
 
-Este projeto é um site responsivo desenvolvido para promover aulas de inglês personalizadas. Com um design moderno e intuitivo, o site apresenta as especialidades do serviço, oferece detalhes sobre as aulas e facilita o agendamento via WhatsApp.
+## Descrição
 
-*Funcionalidades*
-* Seção Hero:
-Apresenta a imagem da professora e uma mensagem motivacional.
-Botão de ação para agendar aulas via WhatsApp.
-* Especialidades:
-Destaques sobre métodos de ensino, personalização e áreas de foco das aulas.
-* Responsividade:
-Layout adaptável para diferentes dispositivos (desktop, tablet e smartphone).
-* Interatividade:
-A imagem da professora altera ao passar o mouse, adicionando um toque dinâmico ao site.
-Ícone fixo do WhatsApp para facilitar o contato.
+Este projeto é uma página web responsiva para promover aulas de inglês personalizadas. O objetivo é oferecer informações claras sobre os serviços, especialidades e um meio direto de agendar aulas através do WhatsApp.
 
-*Personalização*
-* Conteúdo:
-Altere os textos das seções diretamente no arquivo index.html para refletir seu serviço.
-* Contato:
-Substitua o número do WhatsApp no link https://wa.me/5599999999999 para o número desejado.
-*Estilo:
-Edite o arquivo estilo.css para ajustar cores, fontes e margens conforme sua preferência.
+## 🚀 Funcionalidades
 
-*Melhorias Futuras*
-1. Adicionar uma página dedicada com depoimentos de alunos.
-2. Implementar formulários para envio de mensagens diretamente pelo site.
-3. Integrar ferramentas de SEO para melhorar a visibilidade do site nos motores de busca.
+- **Seção Hero**: Destaque inicial com chamada para ação (CTA) para agendar uma aula.
+- **Especialidades**: Três caixas informativas detalhando diferentes serviços oferecidos, como aulas personalizadas, preparação para certificações e inglês para propósitos específicos.
+- **Botão flutuante do WhatsApp**: Acesso rápido para contato direto.
+- **Efeito hover**: Animações suaves ao passar o mouse sobre as caixas de especialidades.
+- **Imagem interativa**: A imagem da professora muda ao passar o mouse, trazendo dinamismo ao site.
+- **Design responsivo**: Adaptado para diferentes tamanhos de tela, especialmente para dispositivos móveis.
 
-*Autor*
-Desenvolvido com dedicação e foco no aprendizado.
-2024 © Shirlya Lima
-Todos os direitos reservados.
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5**: Estruturação do conteúdo.
+- **CSS3**: Estilização e responsividade.
+- **JavaScript**: Interatividade (alteração de imagem ao passar o mouse).
+- **Google Fonts**: Tipografia customizada.
+
+## 📱 Responsividade
+
+A página foi projetada para funcionar bem em diferentes dispositivos, com ajustes visuais para telas menores (breakpoints para até 1200px).
+
+## 🎨 Personalização
+
+- **Cores e fontes**: Modifique o arquivo `estilo.css`.
+- **Texto e imagens**: Altere diretamente no `index.html`.
+- **Link do WhatsApp**: Substitua o número de telefone no atributo `href` do botão de agendar aula.
+---
+
+Se precisar de algo mais detalhado, é só avisar! 🚀
+
